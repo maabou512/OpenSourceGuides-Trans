@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg># How to Create an Open Source Program</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180206T223224Z" creationid="maabou" creationdate="20180206T223224Z">
+        <seg># オープンソース プログラムの作り方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A central open source program office is a designated place where open source is supported, nurtured, shared, explained, and grown inside a company.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180206T224628Z" creationid="maabou" creationdate="20180206T224628Z">
+        <seg>オープンソース プログラムオフィスは、企業内でオープンソース活動が支援され、促進され、共有され、説明されそして育まれることに目的とした、中核的な場である。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
