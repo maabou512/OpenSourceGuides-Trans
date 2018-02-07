@@ -1,10 +1,10 @@
 # オープンソース プログラムの作り方 
 
-オープンソース プログラムオフィスは、企業内でオープンソース活動が支援され、促進され、共有され、説明されそして育まれることに目的とした、中核的な場である。With such an office in place, businesses can establish and execute on their open source strategies in clear terms, giving their leaders, developers, marketers, and other staff the tools they need to make open source a success within their operations.
+中心的なオープンソース プログラム オフィスは、企業内でオープンソースが支援され、促進され、共有され、説明され、そして育まれることを担う場となります。そういった所定のオフィスがあることで、企業にいるリーダー、開発者、マーケターそしてその他のスタッフたちに、彼らの業務でオープンソースを成功裏に活用するのに必要なツールを与え、明確な表現でオープンソース戦略が確立、実行できるようになります。
 
-This guide aims to help you figure out why and how to establish a program to manage the open source use and creation inside your company, as well as to show how your developers can make their own contributions to open source projects outside your operations. It will cover topics for open source offices including: roles and responsibilities, corporate structures, elements of an open source management program, how to choose and hire an open source program manager, and more.
+本ガイドは、企業の中でオープンソースの活用、創出をマネージするための「なぜ（Why）」と「どのように（How）」について理解する助けとなることを目指しています。また本ガイドはオープンソース オフィスに関する次のようなトピックについてカバーします：役割と責任、企業構造、オープンソース マネジメント プログラムの要素、オープンソース プログラム マネージャの選択と選択の仕方、など。
 
-**Table of Contents**
+**コンテンツ**
 
 - [Why create an open source program office](#why-create-an-open-source-program-office)
 - [The role of the open source program office](#the-role-of-the-open-source-program-office)

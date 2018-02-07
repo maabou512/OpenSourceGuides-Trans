@@ -126,4 +126,4 @@ big picture	全体像
 literary	著述の、文学の、文芸の	文芸として広く捉える場合と、著述や文学として狭く捉える場合がありレベルに差がある
 entity	実体
 subject to	依存する、影響下・支配下にある
-circle	サークル、団体、分野、領域
+circle	サークル、団体、分野、領域central	中核的な、など（コメント参照）	constituting something from which other related things proceed or upon which they depend: 
