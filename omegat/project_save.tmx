@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Why create an open source program office</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T015238Z" creationid="maabou" creationdate="20180715T015238Z">
+        <seg>## なぜオープンソース プログラム オフィスを作るのか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Table of Contents**</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20180207T212300Z" creationid="maabou" creationdate="20180207T212300Z">
@@ -22,34 +30,140 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>- [Why create an open source program office](#why-create-an-open-source-program-office)
+- [The role of the open source program office](#the-role-of-the-open-source-program-office)
+- [Example: Open source program at Google](#example-open-source-program-at-google)
+- [Establishing an open source office](#establishing-an-open-source-office)
+- [Program Structure](#program-structure)
+- [Management roles](#management-roles)
+- [Setting policy and processes](#setting-policy-and-processes)
+- [Final words](#final-words)
+- [Example open source program job listing](#example-open-source-program-job-listing)
+- [Acknolwedgements](#acknolwedgements)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T015212Z" creationid="maabou" creationdate="20180715T014602Z">
+        <seg>- [なぜオープンソース プログラム オフィスを作るのか](#why-create-an-open-source-program-office)
+- [オープンソース プログラム オフィスの役割](#the-role-of-the-open-source-program-office)
+- [事例：Googleにおけるオープンソース プログラム](#example-open-source-program-at-google)
+- [オープンソース プログラム オフィスの設立](#establishing-an-open-source-office)
+- [プログラムの構造](#program-structure)
+- [マネジメントの役割](#management-roles)
+- [ポリシーとプロセスを設ける](#setting-policy-and-processes)
+- [おわりに](#final-words)
+- [オープンソースの求人情報の例](#example-open-source-program-job-listing)
+- [謝辞](#acknolwedgements)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A central open source program office is a designated place where open source is supported, nurtured, shared, explained, and grown inside a company.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20180207T095603Z" creationid="maabou" creationdate="20180206T224628Z">
-        <seg>中心的なオープンソース プログラム オフィスは、企業内でオープンソースが支援され、促進され、共有され、説明され、そして育まれることを担う場となります。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T004937Z" creationid="maabou" creationdate="20180206T224628Z">
+        <seg>オープンソース プログラム オフィスは、企業でオープンソースが支援され、育まれ、共有され、説明され、そして成長される場としての中核的役割を担います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A key problem is that, while enterprises develop and follow traditional business plans which dictate their operations and goals, open source software can be baffling.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T021239Z" creationid="maabou" creationdate="20180715T021239Z">
+        <seg>大事な問題は、事業運営やゴールを決定する伝統的なビジネスプランを作り、それに従っていく中で、オープンソース ソフトウェアが困惑を招く(Baffling）ものとなりうるということです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An open source program office is designed to be the center of the universe for a company’s open source operations and structure, helping to bring all the needed components together.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T024639Z" creationid="maabou" creationdate="20180715T024639Z">
+        <seg>オープンソース プログラム オフィスは企業のオープンソースの運営や体系における世界の中心（The center of the universe）であり、必要なコンポーネントをまとめあげることを支援していく役割を担っていきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By creating an open source program office, businesses can enable, streamline and organize the use of open source in ways that tie it directly to a company’s long-term business plans.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T024323Z" creationid="maabou" creationdate="20180715T024323Z">
+        <seg>オープンソース プログラム オフィスを作り出すことで、その事業は長期的なプランに直接紐づく形でのオープンソースの活用が可能となり、それを体系化し、効率化することができるようになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For many businesses, the needed change in philosophy when approaching open source use doesn’t come easily or naturally.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T023438Z" creationid="maabou" creationdate="20180715T023438Z">
+        <seg>多くの事業にとって、オープンソースの活用に取り組もうとするときに必要な理念レベルでの変化は、自然に起きるようなものでもなく、簡単に起こせるものものでもありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it’s not always fully understood by the executive leaders and decision-makers running the operations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T020308Z" creationid="maabou" creationdate="20180715T015428Z">
+        <seg>しかし、事業運営をしているエグゼクティブ リーダーや意思決定者によってオープンソースが十分に理解されているというわけではありません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>It will cover topics for open source offices including: roles and responsibilities, corporate structures, elements of an open source management program, how to choose and hire an open source program manager, and more.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20180207T112449Z" creationid="maabou" creationdate="20180207T112449Z">
-        <seg>また本ガイドはオープンソース オフィスに関する次のようなトピックについてカバーします：役割と責任、企業構造、オープンソース マネジメント プログラムの要素、オープンソース プログラム マネージャの選択と選択の仕方、など。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T011208Z" creationid="maabou" creationdate="20180207T112449Z">
+        <seg>そして本ガイドはオープンソース オフィスに関する役割や責任、企業構造、オープンソース マネジメント プログラムの構成要素、オープンソース プログラム マネージャの選択や採用の仕方など多岐に亘るトピックについてもカバーしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of its biggest differences is that open source development is collaborative, while traditional software and business practices are proprietary and closed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T022708Z" creationid="maabou" creationdate="20180715T022708Z">
+        <seg>もっとも大きな違いは、伝統的なソフトウェア開発やビジネスの実践がプロプライエタリ（独占的な所有物）であり、クローズなものである一方で、オープンソースの開発がコラボレーションで行われることにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open source innovation has a methodology of its own and doesn’t follow traditional business processes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T022410Z" creationid="maabou" creationdate="20180715T022350Z">
+        <seg>それはオープンソース のイノベーションには独自の方法論がありますがそれが伝統的なビジネスプロセスに従わないものであるからです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open source software is widely used today by companies in a broad range of industries from retail to finance to automotive, and more.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T015424Z" creationid="maabou" creationdate="20180715T015424Z">
+        <seg>オープンソース ソフトウェアは今日、リテールや金融、自動車など多岐に亘る産業で幅広く企業に使われています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That’s where the creation of an open source program can be a major boon.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T023853Z" creationid="maabou" creationdate="20180715T023853Z">
+        <seg>オープンソース プログラムの創出はここで、大きな恩恵をもたらします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can include setting code use, distribution, selection, auditing and other policies, as well as training developers, ensuring legal compliance and promoting and building community engagement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T025223Z" creationid="maabou" creationdate="20180715T025223Z">
+        <seg>たとえば、コードの使用、頒布、選定、監査その他のポリシーを定めることや、開発者をトレーニングすること、法的なコンプライアンスを確かなものとすることやコミュニティへのエンゲージメント（積極的な関与）を構築し促進していくことなどがこれに当たります。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>This guide aims to help you figure out why and how to establish a program to manage the open source use and creation inside your company, as well as to show how your developers can make their own contributions to open source projects outside your operations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20180207T101701Z" creationid="maabou" creationdate="20180207T101103Z">
-        <seg>本ガイドは、企業の中でオープンソースの活用、創出をマネージするための「なぜ（Why）」と「どのように（How）」について理解する助けとなることを目指しています。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T011016Z" creationid="maabou" creationdate="20180207T101103Z">
+        <seg>本ガイドは、企業におけるオープンソースの活用や創出をマネジメントする際の「Why」と「How」についての理解の助けとなることを意図しています。また、企業の開発者が社外のオープンソース プロジェクトにどのようにコントリビューションできるようにしていくかについても示していきます。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>With such an office in place, businesses can establish and execute on their open source strategies in clear terms, giving their leaders, developers, marketers, and other staff the tools they need to make open source a success within their operations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20180207T101043Z" creationid="maabou" creationdate="20180207T101043Z">
-        <seg>そういった所定のオフィスがあることで、企業にいるリーダー、開発者、マーケターそしてその他のスタッフたちに、彼らの業務でオープンソースを成功裏に活用するのに必要なツールを与え、明確な表現でオープンソース戦略が確立、実行できるようになります。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20180715T010323Z" creationid="maabou" creationdate="20180207T101043Z">
+        <seg>こういったオフィスが社内に存在することで、事業が明示的にオープンソース戦略を確立し実行することが可能となり、企業内のリーダー、開発者、マーケターそしてその他のスタッフたちに彼らの業務でオープンソースをうまく活用するために必要なツールを提供することにつながります。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
